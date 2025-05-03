@@ -1,0 +1,118 @@
+[
+  {
+    "id": "rosie_signer",
+    "name": "Rosie Signer",
+    "imageUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Images/Rosie/qui-est-rose-des-blackpink-premier-album-rosie-apt-kpop1.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Videos/rosie_video.mp4",
+    "voiceType": "rosie",
+    "voiceUrls": [
+      "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Voices/Rosie/rosie_voice_1.mp3",
+      "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Voices/Rosie/rosie_voice_2.mp3"
+    ],
+    "supportsVideoCall": true,
+    "supportsVoiceCall": true,
+    "presetResponses": [
+      {
+        "question": "hello",
+        "answer": {
+          "content": "Hi there, I'm Rosie Signer! How can I inspire you today?",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "i love your work",
+        "answer": {
+          "content": "Thank you! Your support means the world to me.",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "check this out",
+        "answer": {
+          "content": "Here's a sneak peek at my latest design!",
+          "type": "TEXT_WITH_IMAGE",
+          "imageUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Images/Rosie/rosie.png"
+        }
+      },
+      {
+        "question": "check this out hhhhhhh",
+        "answer": {
+          "content": "Here's a sneak peek at my latest dsfdfsdfdesign!",
+          "type": "TEXT_WITH_IMAGE",
+          "imageUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Images/Rosie/Unknown-4.png"
+        }
+      },
+      {
+        "question": "video call",
+        "answer": {
+          "content": "Let's hop on a video call! Click the video icon to start.",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "voice call",
+        "answer": {
+          "content": "I'd love to talk with you! My voice is always here for inspiration.",
+          "type": "TEXT"
+        }
+      }
+    ]
+  },
+  {
+    "id": "trump",
+    "name": "Trump",
+    "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2019/05/GettyImages-1146754182-1.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Videos/trump_video.mp4",
+    "voiceType": "trump",
+    "voiceUrls": [
+      "https://github.com/Saykudan/IdolCall/raw/refs/heads/main/Voices/Trump/trump_voice_1.mp3",
+      "https://github.com/Saykudan/IdolCall/raw/refs/heads/main/Voices/Trump/trump_voice_2.mp3"    ],
+    "supportsVideoCall": true,
+    "supportsVoiceCall": true,
+    "presetResponses": [
+      {
+        "question": "hello",
+        "answer": {
+          "content": "Hello, I'm Trump. Let's make everything great!",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "win",
+        "answer": {
+          "content": "We're going to win so big, you'll be amazed!",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "i miss you",
+        "answer": {
+          "content": "I miss you too, but nobody misses me like I miss myself!",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "check this out",
+        "answer": {
+          "content": "Take a look at my latest achievement!",
+          "type": "TEXT_WITH_IMAGE",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/shYvCQBBgvqraDRDEMqo-_WbOnc=/0x259:3500x2228/960x540/media/img/mt/2017/04/RTX35BFR/original.jpg"
+        }
+      },
+      {
+        "question": "video call",
+        "answer": {
+          "content": "Let's have the best video call ever, nobody does video calls better than me!",
+          "type": "TEXT"
+        }
+      },
+      {
+        "question": "voice call",
+        "answer": {
+          "content": "Let's talk! I have the best voice, tremendous voice. You'll love it!",
+          "type": "TEXT"
+        }
+      }
+    ]
+  }
+]
