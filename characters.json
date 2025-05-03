@@ -4,7 +4,6 @@
     "name": "Rosie Signer",
     "imageUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Images/Rosie/qui-est-rose-des-blackpink-premier-album-rosie-apt-kpop1.jpg",
     "videoUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Videos/rosie_video.mp4",
-    "voiceType": "rosie",
     "voiceUrls": [
       "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Voices/Rosie/rosie_voice_1.mp3",
       "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Voices/Rosie/rosie_voice_2.mp3"
@@ -63,7 +62,6 @@
     "name": "Trump",
     "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2019/05/GettyImages-1146754182-1.jpg",
     "videoUrl": "https://raw.githubusercontent.com/Saykudan/IdolCall/main/Videos/trump_video.mp4",
-    "voiceType": "trump",
     "voiceUrls": [
       "https://github.com/Saykudan/IdolCall/raw/refs/heads/main/Voices/Trump/trump_voice_1.mp3",
       "https://github.com/Saykudan/IdolCall/raw/refs/heads/main/Voices/Trump/trump_voice_2.mp3"    ],
